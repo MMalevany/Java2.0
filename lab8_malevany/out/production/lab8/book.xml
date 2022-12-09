@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list-book Date="04.11.2022">
+	<book>
+		<Number>1</Number>
+		<Author>Михаил Булгаков</Author>
+		<Name>Мастер и Маргарита</Name>
+		<Year>1929-1940</Year>
+		<Vote>10012</Vote>
+		<Score>17329</Score>
+	</book>
+	<book>
+		<Number>2</Number>
+		<Author>Михаил Булгаков</Author>
+		<Name>Собачье сердце</Name>
+		<Year>1925</Year>
+		<Vote>9734</Vote>
+		<Score>16501</Score>
+	</book>
+	<book>
+		<Number>3</Number>
+		<Author>Илья Ильф, Евгений Петров</Author>
+		<Name>Двенадцать стульев</Name>
+		<Year>1928</Year>
+		<Vote>8876</Vote>
+		<Score>16460</Score>
+	</book>
+	<book>
+		<Number>4</Number>
+		<Author>Николай Гоголь</Author>
+		<Name>Мёртвые души</Name>
+		<Year>1842</Year>
+		<Vote>7569</Vote>
+		<Score>16343</Score>
+	</book>
+	<book>
+		<Number>5</Number>
+		<Author>Александр Дюма</Author>
+		<Name>Граф Монте-Кристо</Name>
+		<Year>1844-1845</Year>
+		<Vote>6290</Vote>
+		<Score>14803</Score>
+	</book>
+	<book>
+		<Number>6</Number>
+		<Author>Илья Ильф, Евгений Петров</Author>
+		<Name>Золотой теленок</Name>
+		<Year>1931</Year>
+		<Vote>6292</Vote>
+		<Score>14775</Score>
+	</book>
+	<book>
+		<Number>7</Number>
+		<Author>Эрих Мария Ремарк</Author>
+		<Name>Три товарища</Name>
+		<Year>1936</Year>
+		<Vote>6808</Vote>
+		<Score>14576</Score>
+	</book>
+	<book>
+		<Number>8</Number>
+		<Author>Виктор Гюго</Author>
+		<Name>Отверженные</Name>
+		<Year>1862</Year>
+		<Vote>5509</Vote>
+		<Score>14112</Score>
+	</book>
+	<book>
+		<Number>9</Number>
+		<Author>Федор Достоевский</Author>
+		<Name>Преступление и наказание</Name>
+		<Year>1866</Year>
+		<Vote>9406</Vote>
+		<Score>13968</Score>
+	</book>
+	<book>
+		<Number>10</Number>
+		<Author>Лев Толстой</Author>
+		<Name>Война и мир</Name>
+		<Year>1865-1868</Year>
+		<Vote>9639</Vote>
+		<Score>13895</Score>
+	</book>
+	<book>
+		<Number>11</Number>
+		<Author>Александр Пушкин</Author>
+		<Name>Евгений Онегин</Name>
+		<Year>1825-1837</Year>
+		<Vote>7844</Vote>
+		<Score>13664</Score>
+	</book>
+	<book>
+		<Number>12</Number>
+		<Author>Александр Пушкин</Author>
+		<Name>Повести Белкина</Name>
+		<Year>1831</Year>
+		<Vote>4476</Vote>
+		<Score>12873</Score>
+	</book>
+	<book>
+		<Number>13</Number>
+		<Author>Николай Гоголь</Author>
+		<Name>Ревизор</Name>
+		<Year>1836</Year>
+		<Vote>5561</Vote>
+		<Score>12871</Score>
+	</book>
+	<book>
+		<Number>14</Number>
+		<Author>Иван Тургенев</Author>
+		<Name>Отцы и дети</Name>
+		<Year>1860-1861</Year>
+		<Vote>6284</Vote>
+		<Score>12821</Score>
+	</book>
+	<book>
+		<Number>15</Number>
+		<Author>Федор Достоевский</Author>
+		<Name>Село Степанчиково и его обитатели</Name>
+		<Year>1859</Year>
+		<Vote>3848</Vote>
+		<Score>12603</Score>
+	</book>
+	<book>
+		<Number>16</Number>
+		<Author>Антон Чехов</Author>
+		<Name>Палата № 6</Name>
+		<Year>1892</Year>
+		<Vote>5147</Vote>
+		<Score>12475</Score>
+	</book>
+	<book>
+		<Number>17</Number>
+		<Author>Александр Дюма</Author>
+		<Name>Три мушкетера</Name>
+		<Year>1844</Year>
+		<Vote>6897</Vote>
+		<Score>12322</Score>
+	</book>
+	<book>
+		<Number>18</Number>
+		<Author>Федор Достоевский</Author>
+		<Name>Братья Карамазовы</Name>
+		<Year>1879-1880</Year>
+		<Vote>7435</Vote>
+		<Score>12273</Score>
+	</book>
+	<book>
+		<Number>19</Number>
+		<Author>Федор Достоевский</Author>
+		<Name>Идиот</Name>
+		<Year>1868-1869</Year>
+		<Vote>7212</Vote>
+		<Score>12008</Score>
+	</book>
+	<book>
+		<Number>20</Number>
+		<Author>Артур Конан Дойль</Author>
+		<Name>Собака Баскервилей</Name>
+		<Year>1901-1902</Year>
+		<Vote>5778</Vote>
+		<Score>11797</Score>
+	</book>
+	<book>
+		<Number>21</Number>
+		<Author>Иван Тургенев</Author>
+		<Name>Рудин</Name>
+		<Year>1855</Year>
+		<Vote>3437</Vote>
+		<Score>10956</Score>
+	</book>
+	<book>
+		<Number>22</Number>
+		<Author>Артур Конан Дойль</Author>
+		<Name>Приключения Шерлока Холмса</Name>
+		<Year>1887-1927</Year>
+		<Vote>8411</Vote>
+		<Score>10566</Score>
+	</book>
+	<book>
+		<Number>23</Number>
+		<Author>Александр Пушкин</Author>
+		<Name>Дубровский</Name>
+		<Year>1833, 1842</Year>
+		<Vote>4497</Vote>
+		<Score>10311</Score>
+	</book>
+	<book>
+		<Number>24</Number>
+		<Author>Иван Тургенев</Author>
+		<Name>Дворянское гнездо</Name>
+		<Year>1859</Year>
+		<Vote>3121</Vote>
+		<Score>10256</Score>
+	</book>
+	<book>
+		<Number>25</Number>
+		<Author>Антон Чехов</Author>
+		<Name>Драма на охоте</Name>
+		<Year>1884-1885</Year>
+		<Vote>2939</Vote>
+		<Score>10184</Score>
+	</book>
+	<book>
+		<Number>26</Number>
+		<Author>Александр Пушкин</Author>
+		<Name>Капитанская дочка</Name>
+		<Year>1836</Year>
+		<Vote>6253</Vote>
+		<Score>10183</Score>
+	</book>
+	<book>
+		<Number>27</Number>
+		<Author>Антон Чехов</Author>
+		<Name>Рассказы</Name>
+		<Year>1883-1885</Year>
+		<Vote>6170</Vote>
+		<Score>10161</Score>
+	</book>
+	<book>
+		<Number>28</Number>
+		<Author>Александр Грибоедов</Author>
+		<Name>Горе от ума</Name>
+		<Year>1828</Year>
+		<Vote>5959</Vote>
+		<Score>10140</Score>
+	</book>
+	<book>
+		<Number>29</Number>
+		<Author>Эрих Мария Ремарк</Author>
+		<Name>Триумфальная арка</Name>
+		<Year>1945</Year>
+		<Vote>5062</Vote>
+		<Score>10105</Score>
+	</book>
+	<book>
+		<Number>30</Number>
+		<Author>Федор Достоевский</Author>
+		<Name>Униженные и оскорблённые</Name>
+		<Year>1861</Year>
+		<Vote>4112</Vote>
+		<Score>10081</Score>
+	</book>
+	<book>
+		<Number>31</Number>
+		<Author>Лев Толстой</Author>
+		<Name>Воскресение</Name>
+		<Year>1899</Year>
+		<Vote>5280</Vote>
+		<Score>10054</Score>
+	</book>
+	<book>
+		<Number>32</Number>
+		<Author>Эрнест Хемингуэй</Author>
+		<Name>Старик и море</Name>
+		<Year>1952</Year>
+		<Vote>5258</Vote>
+		<Score>9898</Score>
+	</book>
+	<book>
+		<Number>33</Number>
+		<Author>Федор Достоевский</Author>
+		<Name>Подросток</Name>
+		<Year>1875</Year>
+		<Vote>3459</Vote>
+		<Score>9883</Score>
+	</book>
+	<book>
+		<Number>34</Number>
+		<Author>Лев Толстой</Author>
+		<Name>Анна Каренина</Name>
+		<Year>1873-1877</Year>
+		<Vote>7258</Vote>
+		<Score>9537</Score>
+	</book>
+	<book>
+		<Number>35</Number>
+		<Author>Жюль Верн</Author>
+		<Name>Двадцать тысяч лье под водой</Name>
+		<Year>1869</Year>
+		<Vote>3420</Vote>
+		<Score>9408</Score>
+	</book>
+	<book>
+		<Number>36</Number>
+		<Author>Борис Васильев</Author>
+		<Name>А зори здесь тихие</Name>
+		<Year>1969</Year>
+		<Vote>4977</Vote>
+		<Score>9107</Score>
+	</book>
+	<book>
+		<Number>37</Number>
+		<Author>Даниель Дефо</Author>
+		<Name>Робинзон Крузо</Name>
+		<Year>1719</Year>
+		<Vote>6700</Vote>
+		<Score>9104</Score>
+	</book>
+	<book>
+		<Number>38</Number>
+		<Author>Михаил Лермонтов</Author>
+		<Name>Герой нашего времени</Name>
+		<Year>1839-1840</Year>
+		<Vote>8320</Vote>
+		<Score>8679</Score>
+	</book>
+	<book>
+		<Number>39</Number>
+		<Author>Александр Пушкин</Author>
+		<Name>Руслан и Людмила</Name>
+		<Year>1820</Year>
+		<Vote>4048</Vote>
+		<Score>8580</Score>
+	</book>
+	<book>
+		<Number>40</Number>
+		<Author>Шарлотта Бронте</Author>
+		<Name>Джейн Эйр</Name>
+		<Year>1847</Year>
+		<Vote>6405</Vote>
+		<Score>8559</Score>
+	</book>
+	<book>
+		<Number>41</Number>
+		<Author>Жюль Верн</Author>
+		<Name>Дети капитана Гранта</Name>
+		<Year>1868</Year>
+		<Vote>4776</Vote>
+		<Score>8275</Score>
+	</book>
+	<book>
+		<Number>42</Number>
+		<Author>Федор Достоевский</Author>
+		<Name>Бесы</Name>
+		<Year>1870-1872</Year>
+		<Vote>5827</Vote>
+		<Score>8129</Score>
+	</book>
+	<book>
+		<Number>43</Number>
+		<Author>Эрих Мария Ремарк</Author>
+		<Name>Черный обелиск</Name>
+		<Year>1956</Year>
+		<Vote>3372</Vote>
+		<Score>7841</Score>
+	</book>
+	<book>
+		<Number>44</Number>
+		<Author>Михаил Шолохов</Author>
+		<Name>Тихий Дон</Name>
+		<Year>1926-1940</Year>
+		<Vote>7296</Vote>
+		<Score>7817</Score>
+	</book>
+	<book>
+		<Number>45</Number>
+		<Author>Александр Дюма</Author>
+		<Name>Виконт де Бражелон, или Десять лет спустя</Name>
+		<Year>1847-1850</Year>
+		<Vote>2357</Vote>
+		<Score>7770</Score>
+	</book>
+	<book>
+		<Number>46</Number>
+		<Author>Александр Дюма</Author>
+		<Name>Двадцать лет спустя</Name>
+		<Year>1845</Year>
+		<Vote>2362</Vote>
+		<Score>7726</Score>
+	</book>
+	<book>
+		<Number>47</Number>
+		<Author>Иван Гончаров</Author>
+		<Name>Обломов</Name>
+		<Year>1848-1858</Year>
+		<Vote>5816</Vote>
+		<Score>7481</Score>
+	</book>
+	<book>
+		<Number>48</Number>
+		<Author>Джек Лондон</Author>
+		<Name> Белый Клык</Name>
+		<Year>1906</Year>
+		<Vote>4244</Vote>
+		<Score>7355</Score>
+	</book>
+	<book>
+		<Number>49</Number>
+		<Author>Лев Толстой</Author>
+		<Name>Детство. Отрочество. Юность</Name>
+		<Year>1852-1857</Year>
+		<Vote>3326</Vote>
+		<Score>7122</Score>
+	</book>
+	<book>
+		<Number>50</Number>
+		<Author>Антон Чехов</Author>
+		<Name>Вишневый сад</Name>
+		<Year>1903</Year>
+		<Vote>3810</Vote>
+		<Score>7065</Score>
+	</book>
+</list-book>
